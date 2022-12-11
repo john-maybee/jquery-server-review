@@ -5,10 +5,10 @@
     - [x] (PUBLIC STATIC) Html, css, jquery, client.js
     - [x] package.json...
     - [x] server.js
-- [] installation
-    - [] node modules
+- [x] installation
+    - [x] node modules
         - [x] express
-    - [] HTML Boilerplate
+    - [x] HTML Boilerplate
         - sourced in JS, etc...
 
 
@@ -30,11 +30,11 @@
 
 ### Server Side
 - [] SET UP SERVER
-    - [] Static files!
-    - [] Ports!
+    - [x] Static files!
+    - [x] Ports!
     - [] Routes? GET POST
     - [] Body Parser?
-    - [] Run It
+    - [x] Run It
 
 - [] HISTORY
     - [] STORAGE?
